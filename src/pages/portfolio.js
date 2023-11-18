@@ -92,6 +92,38 @@ function Portfolio() {
               <a href="https://sivaram-athi.github.io/js-TODO/"> Read More </a>
             </div>
           </div>
+          <div className="box">
+            <img src={workSix} alt="sixthWork" />
+            <div className="content">
+              <h3> Project 06 </h3>
+              <p> Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
+              <a href="https://sivaram-athi.github.io/color-guessing-game-js/"> Read More </a>
+            </div>
+          </div>
+          <div className="box">
+            <img src={workSix} alt="sixthWork" />
+            <div className="content">
+              <h3> Project 06 </h3>
+              <p> Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
+              <a href="https://sivaram-athi.github.io/jquery-todo/"> Read More </a>
+            </div>
+          </div>
+          <div className="box">
+            <img src={workSix} alt="sixthWork" />
+            <div className="content">
+              <h3> Project 06 </h3>
+              <p> Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
+              <a href="https://sivaram-athi.github.io/Angular-color-preview/"> Read More </a>
+            </div>
+          </div>
+          <div className="box">
+            <img src={workSix} alt="sixthWork" />
+            <div className="content">
+              <h3> Project 06 </h3>
+              <p> Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
+              <a href="https://sivaram-athi.github.io/Modern-js-product-list/"> Read More </a>
+            </div>
+          </div>
 
         </div>
         <div className="loadingBtn">
