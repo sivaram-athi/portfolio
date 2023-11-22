@@ -6,7 +6,6 @@ import {
 } from "react-icons/fa";
 import htmlIcon from "../assets/html.png";
 import cssIcon from "../assets/css.png";
-import sassIcon from "../assets/sass.png";
 import javascriptIcon from "../assets/javascript.png";
 import bootstrapIcon from "../assets/bootstrap.png";
 import angularIcon from "../assets/angular.png";
@@ -95,10 +94,10 @@ function About() {
             <img src={reactIcon} alt="reactIcon"/>
             <h3> React </h3>
           </div> */}
-          <div className="box">
+          {/* <div className="box">
             <img src={sassIcon} alt="htmlIcon"/>
             <h3> sass </h3>
-          </div>
+          </div> */}
           <div className="box">
             <img src={angularIcon} alt="htmlIcon" />
             <h3> Angular js </h3>

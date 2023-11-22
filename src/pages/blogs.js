@@ -19,12 +19,6 @@ import {
   FaInstagram,
   FaLinkedin
 } from "react-icons/fa";
-import blogOne from "../assets/blog1.jpg";
-import blogTwo from "../assets/blog2.jpg";
-import blogThree from "../assets/blog3.jpg";
-import blogFour from "../assets/blog4.jpg";
-import blogFive from "../assets/blog5.jpg";
-import blogSix from "../assets/blog6.jpg";
 
 function Blogs() {
 

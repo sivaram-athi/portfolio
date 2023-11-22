@@ -23,21 +23,14 @@ import profilePicture from "../assets/picture.jpg";
 import htmlIcon from "../assets/html.png";
 import cssIcon from "../assets/css.png";
 import reactIcon from "../assets/react.png";
-import sassIcon from "../assets/sass.png";
 import javascriptIcon from "../assets/javascript.png";
 import bootstrapIcon from "../assets/bootstrap.png";
-import workOne from "../assets/img-1.jpg";
-import workTwo from "../assets/img-2.jpg";
-import workThree from "../assets/img-3.jpg";
-import workFour from "../assets/img-4.jpg";
-import workFive from "../assets/img-5.jpg";
-import workSix from "../assets/img-6.jpg";
-import blogOne from "../assets/blog1.jpg";
-import blogTwo from "../assets/blog2.jpg";
-import blogThree from "../assets/blog3.jpg";
-import blogFour from "../assets/blog4.jpg";
-import blogFive from "../assets/blog5.jpg";
-import blogSix from "../assets/blog6.jpg";
+import workOne from "../assets/img-1.jfif";
+import workTwo from "../assets/img-2.jfif";
+import workThree from "../assets/img-3.jfif";
+import workFour from "../assets/img-4.jfif";
+import workFive from "../assets/img-5.jfif";
+import workSix from "../assets/img-6.jfif";
 import "./content.css";
 
 function Content() {

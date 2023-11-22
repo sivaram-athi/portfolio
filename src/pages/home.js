@@ -33,7 +33,7 @@ function Home() {
     <div className="content">
       <h3> Hi, I Am Athi sivaram </h3>
       <span> <Typewriter
-            words={['I \'m a front-end developer' ]}
+            words={['I \'m a full stack developer' ]}
             loop={0}
             cursor
             // cursorStyle='_'

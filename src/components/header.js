@@ -36,14 +36,14 @@ function Header() {
           </i>{" "}
           <span> Portfolio </span>{" "}
         </Link>
-        <Link to="/blog" className="navBarLink">
+        {/* <Link to="/blog" className="navBarLink">
           {" "}
           <i>
             {" "}
             <FaBlog />{" "}
           </i>{" "}
           <span> Blogs </span>{" "}
-        </Link>
+        </Link> */}
         <Link to="/contact" className="navBarLink">
           {" "}
           <i>

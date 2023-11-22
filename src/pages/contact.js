@@ -91,11 +91,11 @@ function Contact() {
             </div>
 
             <div className="share">
-              <a href="#"> <FaFacebook className="mediaIcons"/> </a>
+              {/* <a href="#"> <FaFacebook className="mediaIcons"/> </a>
               <a href="#"> <FaTwitter className="mediaIcons"/> </a>
-              <a href="#"> <FaInstagram className="mediaIcons"/> </a>
-              <a href="#" target="_blank"> <FaLinkedin className="mediaIcons"/> </a>
-              <a href="#" target="_blank"> <FaGithub className="mediaIcons"/> </a>
+              <a href="#"> <FaInstagram className="mediaIcons"/> </a> */}
+              <a href="https://www.linkedin.com/in/athisivaram-s-107910216" target="_blank"> <FaLinkedin className="mediaIcons"/> </a>
+              <a href="https://github.com/sivaram-athi" target="_blank"> <FaGithub className="mediaIcons"/> </a>
             </div>
 
           </div>
