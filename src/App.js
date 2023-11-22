@@ -10,7 +10,6 @@ import Header from './components/header';
 import Home from './pages/home';
 import About from './pages/about';
 import Portfolio from './pages/portfolio';
-import Blogs from './pages/blogs';
 import Contact from './pages/contact';
 
 function App() {
